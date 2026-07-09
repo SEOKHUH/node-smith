@@ -1,0 +1,16 @@
+# 내부 개발 규칙·이력 — 공개용 아님
+CLAUDE.md
+CHANGELOG.md
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 맥/에디터 자동 생성
+.DS_Store
+.vscode/
+.idea/
+*.swp
