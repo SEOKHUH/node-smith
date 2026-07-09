@@ -7,11 +7,8 @@ node-smith가 ComfyUI 캔버스에 **노드를 직접 생성·연결하고 실�
 
 > 단순히 이미 있는 노드의 값을 바꾸는 도구가 아니라, **워크플로우를 처음부터 조립**하는 게 핵심입니다.
 
-Uploading node-smith-demo.mp4…
+https://github.com/user-attachments/assets/bb3242da-7565-4e74-a551-fec0e84d1760
 
-<!-- TODO: GitHub push 후, 이 README를 GitHub 웹 편집기에서 열고 데모 영상(node-smith-demo)을
-     에디터에 드래그&드롭하면 자동 업로드되어 재생 가능한 영상으로 임베드된다.
-     (영상은 GitHub 에셋 서버에 올라가므로 저장소 용량엔 영향 없음) -->
 
 ---
 
