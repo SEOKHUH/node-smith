@@ -7,7 +7,8 @@ node-smith가 ComfyUI 캔버스에 **노드를 직접 생성·연결하고 실�
 
 > 단순히 이미 있는 노드의 값을 바꾸는 도구가 아니라, **워크플로우를 처음부터 조립**하는 게 핵심입니다.
 
-https://github.com/user-attachments/assets/bb3242da-7565-4e74-a551-fec0e84d1760
+
+https://github.com/user-attachments/assets/93f0beab-e2ad-49e8-bb8c-b3ddd7b7cda2
 
 
 ---
